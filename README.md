@@ -1,14 +1,6 @@
 # Trabalho-Final--SBD
 
-Trabalho-Final--SBD is a final project presented at the end of the discipline ´DATABASE SYSTEMS´
-
-## Installation
-
-Don't need installation
-
-## Usage
-
-It's necessary to host the website
+Trabalho-Final--SBD is a final project presented at the end of the discipline *DATABASE SYSTEMS*
 
 ## Authors
 
